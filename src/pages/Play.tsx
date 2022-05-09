@@ -112,7 +112,7 @@ export const Play: React.FC<PlayProps> = ({
             <h3>
               {longestWord}
             </h3>
-
+            <h3>hello</h3>
             <h3>
               {highScore}
             </h3>
