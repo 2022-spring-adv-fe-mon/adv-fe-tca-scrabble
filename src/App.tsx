@@ -70,8 +70,7 @@ const game2: gameResult = {
 };
 
 const gameResults: gameResult[] = [
-  game1
-  , game2
+  
 ];
 
 const getUniquePlayers = (games: gameResult[]) => (
