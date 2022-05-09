@@ -69,10 +69,10 @@ const Home: React.FC<HomeProps> = ({
        </IonHeader>
         <IonCard>
           <IonCardContent>
-      <IonImg src="assets/scrabbleLogo.jpeg"></IonImg>
+      <IonImg src="public/scrabbleLogo.jpeg"></IonImg>
       </IonCardContent>
       </IonCard>
-        <h2>hello</h2>
+        
 
       
     
